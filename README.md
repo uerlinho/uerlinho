@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uerlinho
 - 👀 I’m interested in Desenvolvimento WEB
-- 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL e PHP
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL e PHP
 - 💞️ I’m looking to collaborate on Desenvolvimento de Sistemas voltados para gerenciamento de processos da área de distribuição de energia elétrica.
 - 📫 How to reach me wesley_santos99@hotmail.com.br / 82 98836-1967
 
